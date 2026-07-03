@@ -1,0 +1,4 @@
+# These aren't needed for now, maybe needed if we built our chat from scratch using huggingface.
+#tensorflow>=2.12
+#keras
+#keras-tuner
