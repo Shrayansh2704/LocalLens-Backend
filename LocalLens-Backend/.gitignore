@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.py[cod]
+venv/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.DS_Store
+
+# Models (too large)
+*.pkl
+models/
+
+# FAISS indexes (auto-generated)
+faiss_indexes/
